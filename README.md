@@ -1,7 +1,7 @@
 # Event Probability Simulator
 
 ## Overview
-This project is an Event Probability Simulator i designed. It simulates the probability of different outcomes for given scenarios, allowing users to input parameters for simulations, such as the number of trials and event probabilities. Additionally, it utilizes Bayes' theorem for scenarios requiring probability updates based on new information.
+This project is an Event Probability Simulator i designed. It Simulates the probability of different outcomes for given scenarios, allowing users to input parameters for simulations, such as the number of trials and event probabilities. Additionally, it utilizes Bayes' theorem for scenarios requiring probability updates based on new information.
 
 ## Features
 - Simulate event probabilities based on user-defined parameters.
